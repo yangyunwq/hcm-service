@@ -1,0 +1,12 @@
+#swagger公共信息
+swagger:
+  title: 医院通讯管理项目 API
+  description: 钥世圈医院通讯管理项目
+  version: @project.version@
+  license: Powered By Pharmakeyring & SICT
+  licenseUrl:
+  terms-of-service-url:
+  contact:
+    name: Test
+    email: Test@example.com
+    url:
